@@ -32,7 +32,6 @@ Consider an insect in an M by N grid. The insect starts at the bottom left corne
 For example, the 2 by 2 grid has a total of two ways for the insect to move from the start to the goal. For the 3 by 3 grid, the insect has 6 diferent paths (only 3 are shown above).
 
 <img src="https://i.stack.imgur.com/6tfVZ.png">
-<br>
 
 ```python
 def paths(m, n):
