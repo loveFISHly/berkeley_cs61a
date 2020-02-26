@@ -46,4 +46,6 @@ def paths(m, n):
 print(paths(3,3))
 ```
 
+<img src="https://lh3.googleusercontent.com/DqJoM1NJXSkqUvdKF1baYjKwu8V9zqHfv10nXkKkD5Vg2WRkbpq4XGuKtLzZijg5Rig9IA=s146" width="500">
+
 
